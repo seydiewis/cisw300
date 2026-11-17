@@ -10,7 +10,7 @@
 
 /* Audio and Video Player Styles */
 audio, video { 
-    filter: drop-shadow(8px 8px 15px rgb(255, 102, 102));
+    filter: box-shadow(8px 8px 15px rgb(255, 102, 102));
     display: block;
     margin: 30px auto;
     width: 50%;
